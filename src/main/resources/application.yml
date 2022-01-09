@@ -1,0 +1,6 @@
+server:
+  port: 8881
+spring:
+  freemarker:
+    suffix: .html
+    cache: false
